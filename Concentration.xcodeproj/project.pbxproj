@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65136F7C250A9F0700D59603 /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65136F7B250A9F0700D59603 /* Concentration.swift */; };
+		65136F7E250A9FEC00D59603 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65136F7D250A9FEC00D59603 /* Card.swift */; };
 		65B4EA0924FC18F10069FAE1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B4EA0824FC18F10069FAE1 /* AppDelegate.swift */; };
 		65B4EA0B24FC18F10069FAE1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B4EA0A24FC18F10069FAE1 /* ViewController.swift */; };
 		65B4EA0E24FC18F10069FAE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65B4EA0C24FC18F10069FAE1 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		65136F7B250A9F0700D59603 /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		65136F7D250A9FEC00D59603 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		65B4EA0524FC18F10069FAE1 /* Concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Concentration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65B4EA0824FC18F10069FAE1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65B4EA0A24FC18F10069FAE1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +58,8 @@
 		65B4EA0724FC18F10069FAE1 /* Concentration */ = {
 			isa = PBXGroup;
 			children = (
+				65136F7B250A9F0700D59603 /* Concentration.swift */,
+				65136F7D250A9FEC00D59603 /* Card.swift */,
 				65B4EA1A24FC1A2E0069FAE1 /* Supporting Files */,
 				65B4EA0A24FC18F10069FAE1 /* ViewController.swift */,
 				65B4EA0C24FC18F10069FAE1 /* Main.storyboard */,
@@ -146,6 +152,8 @@
 			files = (
 				65B4EA0B24FC18F10069FAE1 /* ViewController.swift in Sources */,
 				65B4EA0924FC18F10069FAE1 /* AppDelegate.swift in Sources */,
+				65136F7C250A9F0700D59603 /* Concentration.swift in Sources */,
+				65136F7E250A9FEC00D59603 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

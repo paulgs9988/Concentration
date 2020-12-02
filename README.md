@@ -25,15 +25,15 @@ There are many obvious improvements and additions that will be made to this prog
 -A scoring system will be added to the game 
 -Different difficulty levels will be established where each level of difficulty will have more or less cards to make the game more difficult or easy.
 
-Contributing
+Contributing:
 Anyone who is interested in contributing to this project is happily welcome to and you can contact Paul at psullivan4467@eagle.fgcu.edu to talk about
 working together on this or any other projects.
 
 Authors and acknowledgment
 Project created by Paul Sullivan while following along with the iTunes U Stanford iOS App course. I also referenced Stack Overflow for some things.
 
-License
+License:
 There are no licensing requirements for interacting with this program in any way.
 
-Project status
+Project status:
 This project will continually be developed as I go forward in my studies as a "free time" learning experience.
